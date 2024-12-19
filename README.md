@@ -13,6 +13,8 @@ In such cases, I interpolated the position between two consecutive points to det
 ### Task 4: Distance Along the Track for a Given Position
 Implemented the function getDistanceAlongTrack(Coord3D pos) for the WellTrack class to compute the cumulative distance along the track up to a given position. This implementation assumes that the positions in the track are sorted.
 
+Note: Due to time constraints, I was not able to thoroughly test task3 and task4 solution.
+
 ### Handling Unsorted 3D Position Arrays
 Although it wasn't explicitly required in the task description, I considered the possibility of unsorted 3D position arrays. Unfortunately, due to time constraints, I couldn't fully implement this functionality.
 However:
